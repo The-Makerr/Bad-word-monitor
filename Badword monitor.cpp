@@ -75,11 +75,6 @@ int main() {
                           
                             showMessageBox("Please avoid using inappropriate language.");
                         }
-                        if (lowercaseWord == "nig") {
-                            std::string timestamp = getCurrentTimestamp();
-                          
-                            showMessageBox("Please avoid using inappropriate language.");
-                        }
                         if (lowercaseWord == "sexy") {
                             std::string timestamp = getCurrentTimestamp();
                           
